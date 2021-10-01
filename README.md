@@ -19,6 +19,8 @@ Email-me: henricao_7@yahoo.com.br
 
 Connect with me at [LinkedIn](https://www.linkedin.com/in/henrique-castro-484269203//).
 
+## Projeto
+
 ![1](https://github.com/pand-eX/Deploy_1/blob/main/Deploy%20de%20modelo/assets/1.png)
 Basicamente nós vamos desenvolver um modelo de Machine Learning que vai realizar previsões quando receber novos dados.
 O Docker vai ser nossas ferramentas de Deploy, no docker nós vamos fazer a implementação de um modelo de machine learning para isso vamos usar python e Scikit-learn.
